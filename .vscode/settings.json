@@ -1,0 +1,12 @@
+{
+    "solidity.compileUsingRemoteVersion": "",
+    "solidity-va.hover": true,
+    "solidity-va.diagnostics.cdili_json.import": false,
+    "solidity-va.codelens.enable": true,
+    "solidity-va.mode.active": true,
+    "solidity-va.whatsNew.disabled": true,
+    "solidity-va.deco.arguments": true,
+    "solidity-va.deco.statevars": true,
+    "solidity-va.outline.enable": true,
+    "solidity-va.outline.decorations": true
+}
